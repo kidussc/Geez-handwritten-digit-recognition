@@ -1,7 +1,7 @@
 # Geez-handwritten-digit-recognition
 
-Handwritten Ge'ez Digits Recognition-machine learning model recognizing handwritten Ge'ez digits into 20 different single digits of the Ge'ez / Amharic / Ethiopic Digits. 
-Test out the model here https://geezhandwrittendigit.web.app/
+Handwritten Ge'ez Digits Recognition-machine learning model recognizing handwritten Ge'ez digits into the 20 different single digits of the Ge'ez / Amharic / Ethiopic Digits. 
+Test out the model here https://geezhandwrittendigit.web.app/.
 # Dataset
 The dataset used for training consists of 32,319 images of handwritten Ge'ez digits, divided into 20 classes. The dataset has been curated to ensure high quality and balance.
 
