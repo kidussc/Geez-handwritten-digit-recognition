@@ -4,7 +4,7 @@ Handwritten Ge'ez Digits Recognition-machine learning model recognizing handwrit
 Test out the model here https://geezhandwrittendigit.web.app/.
 # Dataset
 The dataset used for training consists of 32,319 images of handwritten Ge'ez digits, divided into 20 classes. The dataset has been curated to ensure high quality and balance.
-
+Here is the dataset link https://www.kaggle.com/datasets/kidussisay/geez-amharic-handwritten-digits.
 # Data Preprocessing
 Before training the model, the dataset underwent the following preprocessing steps:
 
