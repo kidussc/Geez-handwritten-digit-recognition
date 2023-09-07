@@ -9,7 +9,8 @@ The dataset used for training consists of 32,319 images of handwritten Ge'ez dig
 Before training the model, the dataset underwent the following preprocessing steps:
 
 Resizing: All images were resized to a standard size of 32x32 pixels to ensure consistency.
-Pixel Normalization: The pixel values were normalized to a range of [0, 1]. All non-zero pixels were set to 1, simplifying the input for the model.
+Simplifying the input: All the non-zero pixel values were changed to 255.
+Pixel Normalization: The pixel values were normalized to a range of [0, 1]. 
 # Model Training
 The model was trained using TensorFlow and Keras
 
